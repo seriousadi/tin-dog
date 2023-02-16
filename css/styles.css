@@ -1,0 +1,42 @@
+body{
+    text-align: left;
+}
+
+/* navbar */
+
+.navbar{
+    background-color: #ff4c68 !important;
+    margin-bottom: 3rem;
+}
+.container-fluid{
+padding-left: 0;
+}
+.navbar-nav {
+    position: absolute;
+    right:30px;
+}
+.nav-item{
+    margin: 20px;
+}
+
+/* landing page */
+
+.top-container{
+    background-color: #ff4c68;
+    padding: 4rem 15rem 0;
+}
+
+.tagline{
+    padding:4rem 0;
+    color: white;
+}
+.btn{
+    margin: 2rem 2rem 0 0;
+}
+.iphone{
+    width: 18rem;
+    transform: rotate(25deg);
+}
+
+
+
